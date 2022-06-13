@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=legofreak107&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legofreak107&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **legofreak107/legofreak107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
