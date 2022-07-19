@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=legofreak107&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DentechNL&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legofreak107&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
